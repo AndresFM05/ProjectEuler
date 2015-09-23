@@ -39,7 +39,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
  *     are used for.
  *     
  * If you changed this file, add your name here.
- * @author Simon Alford, Manu Singhal
+ * @author Simon Alford, Manu Singhal Andres Felix
  *
  * Problems completed:
  *  1, 2, 4, 6, 7, 8, 10, 11, 12*, 13, 14, 16, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30,
